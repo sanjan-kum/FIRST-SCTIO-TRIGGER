@@ -1,4 +1,4 @@
-Name: santosh kumbhare
+name: Santosh Kumbhare
 on:
   push:
     branches: [ main ]
